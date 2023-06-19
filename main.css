@@ -1,0 +1,37 @@
+h1 {
+  
+    border: 0;
+    text-align: center;
+    height: 20px;
+   
+}
+p {
+    text-align: center;
+    color: #be03f7;
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.nav {
+    text-align: center;
+
+}
+.nav li {
+    display: inline;
+    text-align: center;
+    padding-right: 50px;
+}
+p {
+    text-decoration-color: #ffffff;
+    background:  url(Backgroundimg.jpg) center center repeat;
+    margin: 10px;
+    padding: 450px;
+    position: top;
+}
+.lyrics {
+    background: #000000 center center repeat;
+    height: auto;
+}
+.header {
+    background: #be03f7 center center ;
+}
